@@ -108,8 +108,6 @@ src/
  │       └─ application.properties
  └─ test/
 pom.xml
-```
-
 
 ## 🤝 Contributing
 
